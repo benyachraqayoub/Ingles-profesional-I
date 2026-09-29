@@ -1,36 +1,66 @@
-# 🇬🇧 DAW - 0179. Inglés Profesional I
+# 🇬🇧 Inglés Profesional I — DAW (Módulo 0179)
 
-Este repositorio está dedicado al módulo **0179 - Inglés Profesional I** del ciclo formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**. Aquí se recopila el vocabulario técnico, la gramática aplicada al sector de la informática, la documentación de proyectos y las resoluciones de actividades.
+📅 **Curso académico:** 2026-2027 · 💻 **Ciclo formativo:** DAW · 📘 **Módulo:** 0179 — Inglés Profesional I
 
----
-
-## 🗺️ Organización del Repositorio
-
-El espacio está estructurado de la siguiente manera para facilitar el estudio y la consulta rápida:
-
-* **`📁 01-technical-vocabulary`**: Glosarios de términos sobre desarrollo de software, hardware, bases de datos y redes.
-* **`📁 02-grammar-charts`**: Resúmenes de estructuras gramaticales enfocadas a la redacción técnica (tiempos verbales, condicionales, voz pasiva).
-* **`📁 03-reading-writing`**: Ejercicios de comprensión lectora de documentación técnica (APIs, manuales) y redacción de correos (*professional emails*).
-* **`📁 04-speaking-listening`**: Preparación para entrevistas de trabajo (*job interviews*), reuniones de equipo (*scrum meetings*) y presentaciones de producto.
+Repositorio centralizado de materiales, apuntes, hojas de ejercicios de gramática y proyectos técnicos correspondientes al módulo **0179 - Inglés Profesional I** dentro del ciclo formativo de Grado Superior de **Desarrollo de Aplicaciones Web (DAW)**.
 
 ---
 
-## 📊 Unidades Temáticas e Índice
+## 🗺️ Mapa del Repositorio
 
-| Unidad / Topic | Descripción | Enlace a Contenido |
-| :--- | :--- | :---: |
-| **Unit 1: Working in IT** | Roles profesionales en desarrollo, habilidades blandas (*soft skills*) y entornos de oficina. | [📄 Ir a la Unidad](#) |
-| **Unit 2: Software Development** | Ciclo de vida del software (SDLC), metodologías ágiles, control de versiones y testing. | [📄 Ir a la Unidad](#) |
-| **Unit 3: Database & Networks** | Conceptos clave de bases de datos, infraestructura en la nube y protocolos de red en inglés. | [📄 Ir a la Unidad](#) |
-| **Unit 4: Documentation & Support** | Lectura de especificaciones técnicas, redacción de *tickets* de soporte y documentación de código. | [📄 Ir a la Unidad](#) |
+```text
+.
+├── 00_General/                     # Documentación oficial, criterios y programación
+│   ├── Criterios_Writings_26-27.pdf
+│   ├── English_I_Criteria_2026-2027-PRIMERO.pdf
+│   ├── RA_1_DAW.pdf
+│   └── TIMING_1DAW.pdf
+├── 01_1a_Evaluacion/               # Gramática, vocabulario y soluciones del 1er bloque
+│   ├── ESQUEMA_PRESENT_TENSES.pdf
+│   ├── GRAMMAR_UNIT_1_Exercises.pdf
+│   ├── GRAMMAR_UNIT_1_Solution.md
+│   └── PRESENT_TENSES.pdf
+├── 02_2a_Evaluacion/               # Materiales del 2º bloque (En desarrollo)
+├── 03_3a_Evaluacion/               # Materiales del 3er bloque (Pendiente)
+└── 04_Projects/                    # Proyectos de software, presentaciones y scripts orales
+    └── Project_1_App_Presentation/
+        ├── App_Presentation_SCRIPT.pdf
+        └── Project_1_presentation.pdf
+```
 
 ---
 
-## 🛠️ Herramientas y Recursos Recomendados
+## 📦 Desglose de Contenidos
 
-* **Diccionario Técnico:** [WordReference](https://wordreference.com) / [Linguee](https://linguee.es) para contextos específicos.
-* **Gramática y Estilo:** [Grammarly](https://grammarly.com) para corregir la redacción de correos y documentación técnica.
+### ⚙️ [00_General](./00_General/)
+Contiene las directrices administrativas, la temporalización y las rúbricas clave del curso:
+*   [📝 Criterios de Writings (2026-27)](./00_General/Criterios_Writings_26-27.pdf) — Rúbricas e instrucciones para la redacción técnica.
+*   [📋 English I Official Criteria](./00_General/English_I_Criteria_2026-2027-PRIMERO.pdf) — Criterios generales de evaluación y ponderaciones.
+*   [🎯 Resultado de Aprendizaje 1](./00_General/RA_1_DAW.pdf) — Objetivos oficiales del módulo técnico para DAW.
+*   [📅 Timing 1DAW](./00_General/TIMING_1DAW.pdf) — Calendario de contenidos y fechas aproximadas de examen.
+
+### 🧠 [01_1a_Evaluacion](./01_1a_Evaluacion/)
+Enfoque en la consolidación gramatical (tiempos verbales del presente) aplicados a contextos de IT:
+*   [🖼️ Esquema de Present Tenses](./01_1a_Evaluacion/ESQUEMA_PRESENT_TENSES.pdf) — Resumen visual de estructuras gramaticales.
+*   [✍️ Grammar Unit 1 (Exercises)](./01_1a_Evaluacion/GRAMMAR_UNIT_1_Exercises.pdf) — Ejercicios prácticos imprimibles (Present Simple, Continuous, Perfect).
+*   [✅ Grammar Unit 1 (Solution)](./01_1a_Evaluacion/GRAMMAR_UNIT_1_Solution.md) — Solucionario completo y revisado paso a paso.
+*   [📘 Present Tenses Manual](./01_1a_Evaluacion/PRESENT_TENSES.pdf) — Apuntes teóricos detallados del tema.
+
+### 🚀 [04_Projects](./04_Projects/)
+Entregables prácticos y defensa oral de software.
+
+#### 📱 [Project 1 — App Presentation](./04_Projects/Project_1_App_Presentation/)
+*   [📜 Presentation Script](./04_Projects/Project_1_App_Presentation/App_Presentation_SCRIPT.pdf) — Guión estructurado en inglés para la exposición del proyecto.
+*   [📊 Project 1 Slides](./04_Projects/Project_1_App_Presentation/Project_1_presentation.pdf) — Diapositivas de soporte visual para la defensa técnica de la aplicación.
 
 ---
 
-[🏠 Volver al Perfil de GitHub](https://github.com)
+## 📈 Estado del Curso
+
+- [x] **1ª Evaluación** — Completada / Tiempos de presente & Presentación de App 
+- [ ] **2ª Evaluación** — Próximamente (Pendiente de inicio)
+- [ ] **3ª Evaluación** — Pendiente
+
+---
+
+[🏠 Volver al Perfil de GitHub](https://github.com/benyachraqayoub)

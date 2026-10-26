@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>English Course Schedule</title>
+    <style>
+      :root {
+        --bg: #d9edf7;
+        --table-bg: #cfe5f5;
+        --header-bg: #d9edf7;
+        --border: #111111;
+        --cell: #deeff9;
+        --accent: #cfe7f7;
+        --dark: #0d0d0d;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        font-family: Arial, Helvetica, sans-serif;
+        color: var(--dark);
+      }
+
+      .page {
+        width: 100%;
+        min-height: 100vh;
+        padding: 18px;
+      }
+
+      .schedule-wrap {
+        width: 100%;
+        overflow-x: auto;
+        border: 3px solid var(--border);
+        background: var(--table-bg);
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        table-layout: fixed;
+        min-width: 1100px;
+      }
+
+      th, td {
+        border: 3px solid var(--border);
+        padding: 8px 10px;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 12px;
+        line-height: 1.2;
+        background: var(--cell);
+      }
+
+      th {
+        background: var(--header-bg);
+        font-weight: 700;
+        letter-spacing: 0.02em;
+      }
+
+      .unit {
+        width: 17%;
+        text-align: left;
+        font-weight: 700;
+      }
+
+      .skill {
+        width: 12%;
+      }
+
+      .week {
+        width: 10%;
+      }
+
+      .date {
+        width: 11%;
+      }
+
+      .material {
+        width: 16%;
+      }
+
+      .task {
+        width: 18%;
+      }
+
+      .notes {
+        width: 16%;
+      }
+
+      .first-row td, .first-row th {
+        background: #d8ebf7;
+      }
+
+      .small {
+        font-size: 11px;
+      }
+
+      .strong {
+        font-weight: 700;
+      }
+
+      .italic {
+        font-style: italic;
+      }
+
+      .right-text {
+        text-align: right;
+      }
+
+      @media (max-width: 900px) {
+        th, td {
+          font-size: 10px;
+          padding: 6px 8px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <div class="schedule-wrap">
+        <table aria-label="English course timetable">
+          <thead>
+            <tr>
+              <th class="unit">Unit</th>
+              <th class="skill">Skill</th>
+              <th class="week">Week</th>
+              <th class="date">Date</th>
+              <th class="material">Material</th>
+              <th class="task">Task / Homework</th>
+              <th class="notes">Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="first-row">
+              <td class="unit strong">Presentation albums (Who are you? in Instagram fake)</td>
+              <td class="skill">Presentation</td>
+              <td class="week">Week 1</td>
+              <td class="date">09/09/2026</td>
+              <td class="material">https://zeoob.com/generate-instagram-post/</td>
+              <td class="task">—</td>
+              <td class="notes">—</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 1: Computer Architecture</td>
+              <td class="skill">Vocabulary + Reading</td>
+              <td class="week">Week 2</td>
+              <td class="date">14/09/2026</td>
+              <td class="material">VOCABULARY Unit 1.pdf</td>
+              <td class="task">READING Unit 1.pdf</td>
+              <td class="notes">—</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 1: Computer Architecture</td>
+              <td class="skill">Grammar</td>
+              <td class="week">Week 3</td>
+              <td class="date">21/09/2026</td>
+              <td class="material">GRAMMAR Unit 1.pdf</td>
+              <td class="task">Revision of the present tense</td>
+              <td class="notes">Exercises</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 1: Computer Architecture</td>
+              <td class="skill">Listening</td>
+              <td class="week">Week 4</td>
+              <td class="date">28/09/2026</td>
+              <td class="material">LISTENING Unit 1.pdf</td>
+              <td class="task">—</td>
+              <td class="notes">—</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 1: Computer Architecture</td>
+              <td class="skill">Writing</td>
+              <td class="week">Week 4</td>
+              <td class="date">28/09/2026</td>
+              <td class="material">FOR &amp; AGAINST ESSAY - PRESENTATION</td>
+              <td class="task">FOR &amp; AGAINST ESSAY - PRESENTATION.pdf</td>
+              <td class="notes">—</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 1: Computer Architecture</td>
+              <td class="skill">Project</td>
+              <td class="week">Weeks 5</td>
+              <td class="date">05/10/2026</td>
+              <td class="material">—</td>
+              <td class="task">EXPLANATION</td>
+              <td class="notes">—</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 1: Computer Architecture</td>
+              <td class="skill">Speaking</td>
+              <td class="week">Weeks 5</td>
+              <td class="date">05/10/2026</td>
+              <td class="material">SPEAKING Unit 1.pdf</td>
+              <td class="task">Buying and selling a computer</td>
+              <td class="notes">—</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 2: Operating Systems</td>
+              <td class="skill">Vocabulary + Reading</td>
+              <td class="week">Week 6</td>
+              <td class="date">12/10/2026</td>
+              <td class="material">VOCABULARY Unit 2.pdf</td>
+              <td class="task">READING Unit 2.pdf</td>
+              <td class="notes">—</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 2: Operating Systems</td>
+              <td class="skill">Grammar</td>
+              <td class="week">Week 7</td>
+              <td class="date">19/10/2026</td>
+              <td class="material">GRAMMAR Unit 2.pdf</td>
+              <td class="task">Revision of the past tense</td>
+              <td class="notes">Exercises</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 2: Operating Systems</td>
+              <td class="skill">Listening</td>
+              <td class="week">Week 8</td>
+              <td class="date">26/10/2026</td>
+              <td class="material">LISTENING Unit 2.pdf</td>
+              <td class="task">—</td>
+              <td class="notes">—</td>
+            </tr>
+
+            <tr>
+              <td class="unit strong">Unit 2: Operating Systems</td>
+              <td class="skill">Writing</td>
+              <td class="week">Week 8</td>
+              <td class="date">26/10/2026</td>
+              <td class="material">WRITING - Compare &amp; Contrast</td>
+              <td class="task">WRITING - Compare &amp; Contrast.pdf</td>
+              <td class="notes">—</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>

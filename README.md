@@ -16,12 +16,13 @@ Materials are grouped by course term. First-term units are organized by language
 
 | Section | What you'll find |
 | --- | --- |
-| [📋 Course information](./00_Course_Info/) | Assessment criteria, learning outcomes, and course schedule |
-| [🍂 First term](./01_First_Term/) | First-term materials, organized by unit and skill |
-| [❄️ Second term](./02_Second_Term/) | Second-term materials |
-| [🌱 Third term](./03_Third_Term/) | Third-term materials |
-| [💼 Projects](./04_Projects/) | Projects and presentation resources |
+| [📋 Course information](#course-information) | Assessment criteria, learning outcomes, and course schedule |
+| [🍂 First term](#first-term) | First-term materials, organized by unit and skill |
+| [❄️ Second term](#second-term) | Second-term materials |
+| [🌱 Third term](#third-term) | Third-term materials |
+| [💼 Projects](#app-presentation) | Projects and presentation resources |
 
+<a id="course-information"></a>
 ## 📋 Course information
 
 - [📝 English I assessment criteria](./00_Course_Info/english_i_assessment_criteria_2026-2027.pdf)
@@ -32,7 +33,10 @@ Materials are grouped by course term. First-term units are organized by language
 
 ## 📖 Materials by unit
 
-### Unit 1
+<a id="first-term"></a>
+### 🍂 First term
+
+#### Unit 1
 
 - **📐 Grammar** — [Unit materials](./01_First_Term/01_Unit_1/grammar/)
   - [Present tenses overview](./01_First_Term/01_Unit_1/grammar/present_tenses_overview.pdf)
@@ -46,7 +50,7 @@ Materials are grouped by course term. First-term units are organized by language
   - [Unit 1 for-and-against essay](./01_First_Term/01_Unit_1/writing/unit_1_for_and_against_essay.pdf)
   - [Ayoub's essay — Markdown](./01_First_Term/01_Unit_1/writing/ayoub_ben_yachraq_unit_1_essay.md)
 
-### Unit 2
+#### Unit 2
 
 - **📐 Grammar** — [Unit materials](./01_First_Term/02_Unit_2/grammar/)
   - [Unit 2 grammar activities](./01_First_Term/02_Unit_2/grammar/unit_2_grammar_activities.pdf)
@@ -55,6 +59,17 @@ Materials are grouped by course term. First-term units are organized by language
   - [Speaking in the past](./01_First_Term/02_Unit_2/speaking_listening/speaking_in_the_past.pdf)
 - **✍️ Writing** — [Unit materials](./01_First_Term/02_Unit_2/writing/)
 
+<a id="second-term"></a>
+### ❄️ Second term
+
+Materials for this term will be listed here.
+
+<a id="third-term"></a>
+### 🌱 Third term
+
+Materials for this term will be listed here.
+
+<a id="app-presentation"></a>
 ## 🚀 Project: App Presentation
 
 - [🖥️ Presentation slides](./04_Projects/01_App_Presentation/app_presentation_slides.pdf)

@@ -74,5 +74,9 @@ Materials for this term will be listed here.
 
 - [🖥️ Presentation slides](./04_Projects/01_App_Presentation/app_presentation_slides.pdf)
 - [🗣️ App presentation script](./04_Projects/01_App_Presentation/app_presentation_script.pdf)
-- [📄 GitHub presentation script](./04_Projects/01_App_Presentation/github_presentation_script.docx)
 - [📝 GitHub presentation outline](./04_Projects/01_App_Presentation/github_presentation_outline.md)
+
+
+---
+
+[🏠 Volver al Perfil de GitHub](https://github.com/benyachraqayoub)
